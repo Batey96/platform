@@ -2,6 +2,8 @@ source 'https://rubygems.org'
 
 gem 'rake'
 
+gem 'container'
+
 gem "rails", '~>5.2.0'
 
 gem "dalli"
